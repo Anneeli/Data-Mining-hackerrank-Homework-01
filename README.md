@@ -1,4 +1,4 @@
-# Data-Mining-hackerrank-Homework-01
+# Data Mining Hackerrank Homework 01
 This repository contains my solutions to the exercises of the HackerRank Python track, completed for the Data Mining course homework.
 
 ## Contents
