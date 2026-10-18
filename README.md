@@ -5,11 +5,11 @@ This repository contains my solutions to the exercises of the HackerRank Python 
 
 | Path | Description |
 |---|---|
-| `README.md` | This file: a description of the repository and the list of solved exercises. |
+| `README.md` | A description of the repository and the list of solved exercises. |
 | `scripts.py` | The source code of all the solved exercises. Each solution is preceded by a comment with the name of the exercise, and the exercises are grouped by the sections of the HackerRank Python track. |
 | `printouts/` | A PDF with the pages of my HackerRank submissions list, showing that each exercise was submitted and accepted. |
 
-## Solved exercises (119)
+## Solved exercises (104)
 
 The exercises below appear in `scripts.py` in the same order.
 
@@ -166,4 +166,4 @@ The exercises below appear in `scripts.py` in the same order.
 
 - All solutions were submitted on HackerRank in **Python 3 / PyPy 3**.
 - `scripts.py` is a collection of independent solutions: each one reads its own input from standard input, so the file is meant to be read exercise by exercise, not executed as a single program.
-- A few solutions include a short comment explaining a detail needed to match HackerRank's expected output (for example *Tuples* and *Incorrect Regex*, whose expected outputs depend on the Python version).
+- A few solutions include a short comment explaining a detail needed to match HackerRank's expected output.
