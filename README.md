@@ -7,7 +7,7 @@ This repository contains my solutions to the exercises of the HackerRank Python 
 |---|---|
 | `README.md` | A description of the repository and the list of solved exercises. |
 | `scripts.py` | The source code of all the solved exercises. Each solution is preceded by a comment with the name of the exercise, and the exercises are grouped by the sections of the HackerRank Python track. |
-| `printouts.pdf` | A PDF with the pages of my HackerRank submissions list, showing that each exercise was submitted and accepted. |
+| `printouts/` | A PDF with the pages of my HackerRank submissions list, showing that each exercise was submitted and accepted. |
 
 ## Solved exercises (104)
 
